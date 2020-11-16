@@ -1,0 +1,26 @@
+#get access to git hub tutorials  
+cd /Users/keithgraham/PycharmProjects/Introduction-to-Programming_stp_2020
+
+#opens github repository 
+jupyter notebooks 
+
+
+
+
+#################
+#git branching 
+################
+
+#list branches (the asterisk denotes the current branch)
+git branch
+
+# List all branches (local and remote)
+git branch -a
+
+#Switch to a branch 
+git checkout [name]
+
+
+
+
+
